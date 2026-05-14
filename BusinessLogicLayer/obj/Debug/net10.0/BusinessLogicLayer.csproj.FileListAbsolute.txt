@@ -1,0 +1,15 @@
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\bin\Debug\net10.0\BusinessLogicLayer.deps.json
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\bin\Debug\net10.0\BusinessLogicLayer.dll
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\bin\Debug\net10.0\BusinessLogicLayer.pdb
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\bin\Debug\net10.0\DataAccessLayer.dll
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\bin\Debug\net10.0\DataAccessLayer.pdb
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\obj\Debug\net10.0\Business.450209FB.Up2Date
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.dll
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\obj\Debug\net10.0\refint\BusinessLogicLayer.dll
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.pdb
+C:\Users\ELMOHANDES\source\repos\task\BusinessLogicLayer\obj\Debug\net10.0\ref\BusinessLogicLayer.dll

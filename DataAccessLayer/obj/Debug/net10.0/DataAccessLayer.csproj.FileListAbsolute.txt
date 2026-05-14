@@ -1,0 +1,12 @@
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\bin\Debug\net10.0\DataAccessLayer.deps.json
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\bin\Debug\net10.0\DataAccessLayer.dll
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\bin\Debug\net10.0\DataAccessLayer.pdb
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\obj\Debug\net10.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\obj\Debug\net10.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\obj\Debug\net10.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\obj\Debug\net10.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\obj\Debug\net10.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\obj\Debug\net10.0\DataAccessLayer.dll
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\obj\Debug\net10.0\refint\DataAccessLayer.dll
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\obj\Debug\net10.0\DataAccessLayer.pdb
+C:\Users\ELMOHANDES\source\repos\task\DataAccessLayer\obj\Debug\net10.0\ref\DataAccessLayer.dll
